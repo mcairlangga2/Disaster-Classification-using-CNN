@@ -1,1 +1,2 @@
 # Disaster-Classification-using-CNN
+This repository is a part of Bangkit Capstone project. In this project we made an app to classify natural disaster. In this model, there are four classes of natural disaster. The dataset are collected by Gautam Kamar and can be found in this link https://drive.google.com/file/d/1NvTyhUsrFbL91E10EPm38IjoCg6E2c6q/edit . We use CNN to classify the images and the model is made using transfer learning method.
